@@ -1,0 +1,5 @@
+# ninja log v5
+2	150	7082126285490855	CMakeFiles/trees_example.dir/main.c.obj	7044b2b78d0606e0
+150	298	7082126286882775	trees_example.exe	cadece5ee463b37d
+15	152	7082124012184841	CMakeFiles/trees_example.dir/tree_library.c.obj	df0adfb64bd966db
+2	284	7082630384374584	build.ninja	c1862f06d96a5a51

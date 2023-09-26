@@ -1,0 +1,3 @@
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/trees/cmake-build-debug/CMakeFiles/trees.dir
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/trees/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/trees/cmake-build-debug/CMakeFiles/rebuild_cache.dir
