@@ -1,0 +1,15 @@
+# ninja log v5
+1	164	7095145442752453	CMakeFiles/anagrams_permutations_with_repetition.dir/main.c.obj	de6003dd850d43ce
+166	434	7095145445261910	anagrams_permutations_with_repetition.exe	528b18240ce3737f
+3	140	7095146791859949	CMakeFiles/anagrams_permutations_with_repetition.dir/main.c.obj	de6003dd850d43ce
+141	301	7095146793223728	anagrams_permutations_with_repetition.exe	528b18240ce3737f
+4	147	7095148735715579	CMakeFiles/anagrams_permutations_with_repetition.dir/main.c.obj	de6003dd850d43ce
+148	349	7095148737695085	anagrams_permutations_with_repetition.exe	528b18240ce3737f
+3	169	7095152235609217	CMakeFiles/anagrams_permutations_with_repetition.dir/main.c.obj	de6003dd850d43ce
+170	317	7095152236913557	anagrams_permutations_with_repetition.exe	528b18240ce3737f
+4	158	7095153430439514	CMakeFiles/anagrams_permutations_with_repetition.dir/main.c.obj	de6003dd850d43ce
+159	336	7095153432118791	anagrams_permutations_with_repetition.exe	528b18240ce3737f
+4	151	7095153928083792	CMakeFiles/anagrams_permutations_with_repetition.dir/main.c.obj	de6003dd850d43ce
+152	343	7095153929879312	anagrams_permutations_with_repetition.exe	528b18240ce3737f
+3	235	7095154003702812	CMakeFiles/anagrams_permutations_with_repetition.dir/main.c.obj	de6003dd850d43ce
+235	423	7095154005463534	anagrams_permutations_with_repetition.exe	528b18240ce3737f

@@ -1,0 +1,12 @@
+# ninja log v5
+1	149	7094924547070103	CMakeFiles/basic_permutations_with_repetitions.dir/main.c.obj	44cb3a9741ce850a
+151	337	7094924548846063	basic_permutations_with_repetitions.exe	9c4a93e13004bd4
+4	218	7094933545956702	build.ninja	73382e11e6dffcf6
+2	133	7094933547725464	CMakeFiles/basic_permutations_with_repetitions.dir/main.c.obj	44cb3a9741ce850a
+134	287	7094933549123437	basic_permutations_with_repetitions.exe	9c4a93e13004bd4
+4	168	7094933672834831	CMakeFiles/basic_permutations_with_repetitions.dir/main.c.obj	44cb3a9741ce850a
+169	318	7094933674218552	basic_permutations_with_repetitions.exe	9c4a93e13004bd4
+4	165	7094934192708868	CMakeFiles/basic_permutations_with_repetitions.dir/main.c.obj	44cb3a9741ce850a
+166	311	7094934194001629	basic_permutations_with_repetitions.exe	9c4a93e13004bd4
+4	2133	7094934639431414	CMakeFiles/basic_permutations_with_repetitions.dir/main.c.obj	44cb3a9741ce850a
+2134	2280	7094934640722435	basic_permutations_with_repetitions.exe	9c4a93e13004bd4

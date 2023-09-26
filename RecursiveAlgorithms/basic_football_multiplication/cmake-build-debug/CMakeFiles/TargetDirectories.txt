@@ -1,0 +1,3 @@
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/basic_football_multiplication/cmake-build-debug/CMakeFiles/basic_football_multiplication.dir
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/basic_football_multiplication/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/basic_football_multiplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir

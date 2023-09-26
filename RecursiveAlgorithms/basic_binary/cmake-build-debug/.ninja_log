@@ -1,0 +1,7 @@
+# ninja log v5
+1	180	7095071400805842	CMakeFiles/basic_binary.dir/main.c.obj	5b90d6afe2134c1b
+183	529	7095071404228796	basic_binary.exe	87499b83e982d86
+5	244	7095074739408723	CMakeFiles/basic_binary.dir/main.c.obj	5b90d6afe2134c1b
+244	444	7095074741320554	basic_binary.exe	87499b83e982d86
+2	139	7095074915845810	CMakeFiles/basic_binary.dir/main.c.obj	5b90d6afe2134c1b
+139	293	7095074917084334	basic_binary.exe	87499b83e982d86

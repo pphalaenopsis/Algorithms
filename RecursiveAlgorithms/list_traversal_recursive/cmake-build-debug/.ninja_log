@@ -1,0 +1,7 @@
+# ninja log v5
+1	160	7094319759693499	CMakeFiles/list_traversal_recursive.dir/main.c.obj	44a1536906b4b05e
+162	368	7094319761663859	list_traversal_recursive.exe	31ab0f87de86ec76
+3	143	7094320653175853	CMakeFiles/list_traversal_recursive.dir/main.c.obj	44a1536906b4b05e
+144	280	7094320654421975	list_traversal_recursive.exe	31ab0f87de86ec76
+3	149	7094320982355822	CMakeFiles/list_traversal_recursive.dir/main.c.obj	44a1536906b4b05e
+149	320	7094320983783305	list_traversal_recursive.exe	31ab0f87de86ec76

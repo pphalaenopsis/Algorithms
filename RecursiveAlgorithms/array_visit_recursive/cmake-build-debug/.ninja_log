@@ -1,0 +1,9 @@
+# ninja log v5
+1	153	7094295456561625	CMakeFiles/array_visit_recursive.dir/main.c.obj	bd68b456ccd9c56a
+155	384	7094295458774696	array_visit_recursive.exe	27f57b7f0f0ba4e7
+2	170	7094296009534635	CMakeFiles/array_visit_recursive.dir/main.c.obj	bd68b456ccd9c56a
+170	322	7094296010954350	array_visit_recursive.exe	27f57b7f0f0ba4e7
+5	162	7094296479298242	CMakeFiles/array_visit_recursive.dir/main.c.obj	bd68b456ccd9c56a
+162	312	7094296480553949	array_visit_recursive.exe	27f57b7f0f0ba4e7
+3	142	7094297088529043	CMakeFiles/array_visit_recursive.dir/main.c.obj	bd68b456ccd9c56a
+142	277	7094297089740268	array_visit_recursive.exe	27f57b7f0f0ba4e7

@@ -1,0 +1,11 @@
+# ninja log v5
+1	155	7094791587974365	CMakeFiles/basic_binary_search.dir/main.c.obj	6b84bc8ca60ce99b
+157	546	7094791591479062	basic_binary_search.exe	1edfeaba25be41b1
+4	140	7094792031680204	CMakeFiles/basic_binary_search.dir/main.c.obj	6b84bc8ca60ce99b
+141	292	7094792033080665	basic_binary_search.exe	1edfeaba25be41b1
+5	158	7094792334882112	CMakeFiles/basic_binary_search.dir/main.c.obj	6b84bc8ca60ce99b
+159	318	7094792336328227	basic_binary_search.exe	1edfeaba25be41b1
+2	130	7094794831690277	CMakeFiles/basic_binary_search.dir/main.c.obj	6b84bc8ca60ce99b
+130	282	7094794833089807	basic_binary_search.exe	1edfeaba25be41b1
+3	174	7094795700847693	CMakeFiles/basic_binary_search.dir/main.c.obj	6b84bc8ca60ce99b
+174	391	7094795702842304	basic_binary_search.exe	1edfeaba25be41b1

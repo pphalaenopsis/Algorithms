@@ -1,0 +1,3 @@
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/map_numbering_lands_recursive/cmake-build-debug/CMakeFiles/map_numbering_lands_recursive.dir
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/map_numbering_lands_recursive/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/map_numbering_lands_recursive/cmake-build-debug/CMakeFiles/rebuild_cache.dir

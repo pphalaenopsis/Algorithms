@@ -1,0 +1,3 @@
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/basic_polish_expression/cmake-build-debug/CMakeFiles/basic_polish_expression.dir
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/basic_polish_expression/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/basic_polish_expression/cmake-build-debug/CMakeFiles/rebuild_cache.dir

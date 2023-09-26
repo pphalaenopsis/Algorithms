@@ -1,0 +1,7 @@
+# ninja log v5
+1	163	7095126623473455	CMakeFiles/basic_anagrams_simple.dir/main.c.obj	8d9996bdd0af8c96
+164	473	7095126626378290	basic_anagrams_simple.exe	95b936e1f4137259
+5	198	7095126916477059	CMakeFiles/basic_anagrams_simple.dir/main.c.obj	8d9996bdd0af8c96
+199	366	7095126917937697	basic_anagrams_simple.exe	95b936e1f4137259
+4	144	7095130967651101	CMakeFiles/basic_anagrams_simple.dir/main.c.obj	8d9996bdd0af8c96
+144	300	7095130969052740	basic_anagrams_simple.exe	95b936e1f4137259

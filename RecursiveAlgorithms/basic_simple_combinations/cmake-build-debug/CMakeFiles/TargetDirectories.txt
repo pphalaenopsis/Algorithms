@@ -1,0 +1,3 @@
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/basic_simple_combinations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/basic_simple_combinations/cmake-build-debug/CMakeFiles/basic_simple_combinations.dir
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/basic_simple_combinations/cmake-build-debug/CMakeFiles/edit_cache.dir

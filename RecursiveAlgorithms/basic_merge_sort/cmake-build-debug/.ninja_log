@@ -1,0 +1,5 @@
+# ninja log v5
+1	182	7094830949290968	CMakeFiles/basic_merge_sort.dir/main.c.obj	8505d8ae11f6179d
+185	408	7094830951476293	basic_merge_sort.exe	619f4261d2cc2081
+4	168	7094832332177391	CMakeFiles/basic_merge_sort.dir/main.c.obj	8505d8ae11f6179d
+168	311	7094832333459853	basic_merge_sort.exe	619f4261d2cc2081

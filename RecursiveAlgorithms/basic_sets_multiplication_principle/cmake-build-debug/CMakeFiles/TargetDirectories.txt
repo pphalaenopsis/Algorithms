@@ -1,0 +1,3 @@
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/basic_sets_multiplication_principle/cmake-build-debug/CMakeFiles/basic_sets_multiplication_principle.dir
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/basic_sets_multiplication_principle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexandra Elena/ClionProjects_SecondYear/basic_sets_multiplication_principle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

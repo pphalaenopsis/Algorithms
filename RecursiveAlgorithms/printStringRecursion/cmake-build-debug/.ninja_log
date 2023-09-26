@@ -1,0 +1,23 @@
+# ninja log v5
+0	148	7091382119523276	CMakeFiles/printStringRecursion.dir/main.c.obj	7f7e97ce6eb6ce5b
+149	355	7091382121487293	printStringRecursion.exe	6e455cf4e236732a
+3	132	7091382260679157	CMakeFiles/printStringRecursion.dir/main.c.obj	7f7e97ce6eb6ce5b
+133	272	7091382262008595	printStringRecursion.exe	6e455cf4e236732a
+3	128	7091383241276253	CMakeFiles/printStringRecursion.dir/main.c.obj	7f7e97ce6eb6ce5b
+129	268	7091383242603915	printStringRecursion.exe	6e455cf4e236732a
+4	131	7091383350317588	CMakeFiles/printStringRecursion.dir/main.c.obj	7f7e97ce6eb6ce5b
+132	268	7091383351630171	printStringRecursion.exe	6e455cf4e236732a
+3	125	7091383844562507	CMakeFiles/printStringRecursion.dir/main.c.obj	7f7e97ce6eb6ce5b
+126	257	7091383845804348	printStringRecursion.exe	6e455cf4e236732a
+3	122	7091384040039766	CMakeFiles/printStringRecursion.dir/main.c.obj	7f7e97ce6eb6ce5b
+123	249	7091384041228062	printStringRecursion.exe	6e455cf4e236732a
+3	127	7091384280489502	CMakeFiles/printStringRecursion.dir/main.c.obj	7f7e97ce6eb6ce5b
+127	257	7091384281715970	printStringRecursion.exe	6e455cf4e236732a
+3	143	7091401205856691	CMakeFiles/printStringRecursion.dir/main.c.obj	7f7e97ce6eb6ce5b
+144	317	7091401207501407	printStringRecursion.exe	6e455cf4e236732a
+4	137	7091401348407292	CMakeFiles/printStringRecursion.dir/main.c.obj	7f7e97ce6eb6ce5b
+137	310	7091401350037545	printStringRecursion.exe	6e455cf4e236732a
+2	145	7091403583277286	CMakeFiles/printStringRecursion.dir/main.c.obj	7f7e97ce6eb6ce5b
+146	314	7091403584878415	printStringRecursion.exe	6e455cf4e236732a
+4	157	7091406144085880	CMakeFiles/printStringRecursion.dir/main.c.obj	7f7e97ce6eb6ce5b
+157	350	7091406145918437	printStringRecursion.exe	6e455cf4e236732a
